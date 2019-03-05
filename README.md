@@ -8,6 +8,7 @@ The are only allowed to be used when submitting to a journal published by Spring
 ## Features
 
 * Provides a skeletal [paper.tex](paper.tex) file.
+  See [paper.pdf](paper.pdf) for a rendered result.
 * Ready-to-run configuration with BibTeX.
 * Linked DOI field.
 * Working configuration for [microtype] and [cleveref].
